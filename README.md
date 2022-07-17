@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SEMIH DIKER</h1>
 <h3 align="center">I am a passionate software developer in Canada. My aim is to be the best and to grow with the developing technology. I want to be the best in this sector by improving myself every day.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.carpixx.ch/en/car-builder-in-the-metaverse/">
+<img align="right" alt="Coding" width="400" src="https://www.carpixx.ch/wp-content/uploads/2022/06/AdobeStock_493547630_1000.jpg">
 
 
 - 🔭 I’m currently working on **JS, HTML, CSS, REACT, PYTHON & ML**

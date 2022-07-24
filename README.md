@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm SEMIH DIKER</h1>
 <h3 align="center">I have 1-year experience as a Junior Full stack software developer in technology companies.
 I am a talented, ambitious, hardworking individual with extensive skills and experience in Digital Business Marketing.
-I have good skills and responsiveness in Javascript, HTML and CSS.
-My future goals will be to learn and master Python, r7, SQL, AI and ML.</h3>
+I have good skills and responsiveness in Javascript, HTML and CSS, Metamask Smart Contracts, NFTS.
+My future goals will be to learn and master Solidity, React, Python, R, SQL, AI and ML.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.carpixx.ch/wp-content/uploads/2022/06/AdobeStock_493547630_1000.jpg">
 
 
-- 🔭 I’m currently working on **JS, HTML, CSS**
+- 🔭 I’m currently working on **JS, HTML, CSS, NFT'S**
 
-- 🌱 I’m currently learning **REACT, PYTHON & ML**
+- 🌱 I’m currently learning ** SOLIDITY, REACT, PYTHON & ML**
 
 - 👯 I’m looking to collaborate on **with big tech companies**
 

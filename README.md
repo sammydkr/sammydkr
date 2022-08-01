@@ -7,7 +7,7 @@ My future goals will be to learn and master Solidity, React, Python, R, SQL, AI 
 
 
 - 🔭 I’m currently working on **JS, HTML, CSS, NFT'S  This is my collection https://opensea.io/account?tab=collected **
- L**
+ 
 
 - 👯 I’m looking to collaborate on **with big tech companies & Open my business**
 

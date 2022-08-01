@@ -6,11 +6,10 @@ My future goals will be to learn and master Solidity, React, Python, R, SQL, AI 
 <img align="right" alt="Coding" width="400" src="https://www.carpixx.ch/wp-content/uploads/2022/06/AdobeStock_493547630_1000.jpg">
 
 
-- 🔭 I’m currently working on **JS, HTML, CSS, NFT'S**
+- 🔭 I’m currently working on **JS, HTML, CSS, NFT'S  This is my collection https://opensea.io/account?tab=collected **
+ L**
 
-- 🌱 I’m currently learning ** SOLIDITY, REACT, PYTHON & ML**
-
-- 👯 I’m looking to collaborate on **with big tech companies**
+- 👯 I’m looking to collaborate on **with big tech companies & Open my business**
 
 - 🤝 I’m looking for help with **my development in future**
 

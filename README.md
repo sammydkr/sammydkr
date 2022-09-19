@@ -13,7 +13,7 @@ My future goals will be to learn and master Solidity, React, Angular, Python, R,
 
 - 🤝 I’m looking for help with **my development in future**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sammydkr](https://github.com/sammydkr)
+- 👨‍💻 All of my projects are available at [https://github.com/sammydkr](https://github.com/sammydkr) & https://codepen.io/sammydkr
 
 - 📝 I regularly write articles on [https://www.getrevue.co/profile/semihdiker10?via=twitter-profile](https://www.getrevue.co/profile/semihdiker10?via=twitter-profile)
 

@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm SEMIH DIKER</h1>
-<h3 align="center">I have 2 year experience as a Full Stack Software Developer/Blockchain Developer in technology company.
-I am a talented, ambitious, hardworking individual with extensive skills and experience in Digital Business Marketing.
-I have good skills and responsiveness in Javascript, HTML, HTML5, CSS, C++, REACT, Metamask Smart Contracts, Solidity, AI, SASS, JQUERY, PYTHON, MACHINE LEARNING, JUPYTER, MONGO DB, MONGOOSE, NODE.JS, EXPRESS, AJAX, JSON.</h3>
+<h3 align="center">I have 2 years of experience as a Full Stack Software Developer/Blockchain Developer in the technology company.
+I am a talented, ambitious, hardworking individual with extensive skills and experience in Digital Business Marketing. Full Focus AI, APP And Blockchain Technology
+I have good skills and responsiveness in DEEPSEEK, Javascript, HTML, HTML5, CSS, C++, REACT, Metamask Smart Contracts, Solidity, AI, SASS, JQUERY, PYTHON, MACHINE LEARNING, JUPITER, MONGO DB, MONGOOSE, NODE.JS, EXPRESS, AJAX, JSON.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.carpixx.ch/wp-content/uploads/2022/06/AdobeStock_493547630_1000.jpg">
 
 
 - 🔭 I’m currently working on **JS, HTML, CSS, NFT'S  This is my collection https://opensea.io/account?tab=collected **
  
 
-- 👯 I’m looking to collaborate on **with big tech companies & Open my business**
+- 👯 I’m looking to collaborate on **with big tech companies & Challenge new projects with AI**
 
 - 🤝 I’m looking for help with **my development in future**
 

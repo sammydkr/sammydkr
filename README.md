@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SEMIH DIKER</h1>
+<h1 align="center">Hi 👋, I'm SEMIH DKR</h1>
 <h3 align="center">I have many years of experience as a Full Stack Software Developer/Blockchain Developer in technology companies.
 I am a talented, ambitious, hardworking individual with extensive skills and experience in Digital Business Marketing. Full Focus AI, APP's And Blockchain Technology.
 I have good skills and responsiveness in DEEPSEEK, Javascript, HTML, HTML5, CSS, C++, REACT, Metamask Smart Contracts, Solidity, AI, SASS, JQUERY, PYTHON, MACHINE LEARNING, JUPITER, MONGO DB, MONGOOSE, NODE.JS, EXPRESS, AJAX, JSON.</h3>

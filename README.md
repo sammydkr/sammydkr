@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SEMIH DKR</h1>
-<h3 align="center">I have many years of experience as a Full Stack Software Developer/Blockchain Developer in technology companies.
-I am a talented, ambitious, hardworking individual with extensive skills and experience in Digital Business Marketing. Full Focus AI, APP's And Blockchain Technology.
-I have good skills and responsiveness in DEEPSEEK, JavaScript, HTML, HTML5, CSS, C++, REACT, Metamask Smart Contracts, C#, PYTHON, NODE.JS, JSON, AZURE .</h3>
+<h3 align="center">I have many years of experience as Azure Back-End Software Developer in technology companies.
+I am a talented, ambitious, hardworking individual with extensive skills and experience in Digital Business Marketing. Full Focus Back End Developer Technology.
+I have good skills and responsiveness in DEEPSEEK, CHATGTP, JavaScript, HTML, HTML5, Python (Programming Language) • Azure Cosmos DB • Microsoft Azure • C# • Linux Kernel.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.carpixx.ch/wp-content/uploads/2022/06/AdobeStock_493547630_1000.jpg">
 
 
-- 👯 I’m looking to collaborate on **with big tech companies & Challenge new projects with AI**
+- 👯 I’m looking to collaborate on **with big tech companies & Challenge new projects**
 
 - 🤝 I’m looking for help with **my development in future**
 
